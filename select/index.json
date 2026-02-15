@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "electro",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-02-15T04:04:58.724568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Am Electro",
+      "artist": "Meat Beat Manifesto",
+      "has_synced": false,
+      "path": "select/01_I_Am_Electro_Meat_Beat_Manifesto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "String Electro",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/02_String_Electro_Moby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electro Man",
+      "artist": "Calvin Harris",
+      "has_synced": true,
+      "path": "select/03_Electro_Man_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Electro Glide In Blue",
+      "artist": "Apollo 440",
+      "has_synced": false,
+      "path": "select/04_Electro_Glide_In_Blue_Apollo_440.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back in the Day - Paul Robb Roots Electro Mix",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/05_Back_in_the_Day_-_Paul_Robb_Roots_Electro_Mix_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back in the Day (Electro Roots Mix)",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/06_Back_in_the_Day_(Electro_Roots_Mix)_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just a Little More Love (Electro edit)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/07_Just_a_Little_More_Love_(Electro_edit)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Electro-Shock Blues",
+      "artist": "Eels",
+      "has_synced": true,
+      "path": "select/08_Electro-Shock_Blues_Eels.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Invisible Love - Deserving? - Electro Remix",
+      "artist": "Serj Tankian",
+      "has_synced": true,
+      "path": "select/09_Invisible_Love_-_Deserving__-_Electro_Remix_Serj_Tankian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reunion - Electro Mix",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/10_Reunion_-_Electro_Mix_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reunion (Electro Mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/11_Reunion_(Electro_Mix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Electro-Violence",
+      "artist": "Overkill",
+      "has_synced": true,
+      "path": "select/12_Electro-Violence_Overkill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "electro",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_electro_FINLANDS.txt"
+    }
+  ]
+}
